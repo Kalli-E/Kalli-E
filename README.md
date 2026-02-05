@@ -10,35 +10,71 @@ Meu foco está em aprender, experimentar e conectar essas áreas, sempre com ate
 ---
 ### 🧩 Áreas de Exploração
 
-- **Infraestrutura e Redes**  
-  Estudo de arquitetura de redes, monitoramento, confiabilidade e comunicação entre sistemas.
+- **Infraestrutura e Redes** - Estudo de arquitetura de redes, monitoramento, confiabilidade e comunicação entre sistemas.
 
-- **Segurança e Hardening**  
-  Práticas voltadas à proteção, observabilidade, mitigação de riscos e análise de superfícies de ataque.
+- **Segurança e Hardening** - Práticas voltadas à proteção, observabilidade, mitigação de riscos e análise de superfícies de ataque.
 
-- **Computação em Nuvem**  
-  Infraestrutura em nuvem, serviços distribuídos e automação, com foco em escalabilidade e resiliência.
+- **Computação em Nuvem** - Infraestrutura em nuvem, serviços distribuídos e automação, com foco em escalabilidade e resiliência.
 
-- **Programação e Sistemas**  
-  Desenvolvimento em diferentes níveis de abstração, buscando compreender o funcionamento interno das tecnologias.
+- **Programação e Sistemas** - Desenvolvimento em diferentes níveis de abstração, buscando compreender o funcionamento interno das tecnologias.
 
-- **Dados e Inteligência Computacional**  
-  Interesse em bancos de dados, big data e ciência de dados como suporte à tomada de decisão em sistemas complexos.
+- **Dados e Inteligência Computacional** - Interesse em bancos de dados, big data e ciência de dados como suporte à tomada de decisão em sistemas complexos.
 
 ---
 ### 💻 Tecnologias e Ferramentas
 
 > As tecnologias abaixo representam ferramentas com as quais tive contato prático ao longo da minha formação e exploração em diferentes áreas da computação.
 
-| Categoria            | Tecnologias                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Linguagens**       | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br><img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>             |
-| **Frameworks**       | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/><br><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/> |
-| **Cloud \| Infra**   | <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white"/>                                                                                                                            |
-| **Sistemas e Dados** | <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>                                                                                                                                                                                                                                  |
-| **Documentação**     | <img src="https://img.shields.io/badge/Markdown-200000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/> <img src="https://img.shields.io/badge/LaTeX-00A0A0?style=flat-square&logo=latex&logoColor=white)" alt="latex"/>                                                                                                                                                                                                              |
+<div align="center">
+
+<table>
+  <tr>
+    <th align="center">Categoria</th>
+    <th align="center">Tecnologias</th>
+  </tr>
+
+  <tr>
+    <td style="text-align:center; vertical-align: middle;"><b>Linguagens</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center; vertical-align: middle;"><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center; vertical-align: middle;"><b>Cloud | Infra</b></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center; vertical-align: middle;"><b>Sistemas e Dados</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center; vertical-align: middle;"><b>Documentação</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-00A0A0?style=flat-square&logo=latex&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
+
 ### 📲 Conecte-se comigo
 
  <div align = "center"> 
